@@ -1,0 +1,28 @@
+SITARA MARKETING / DELIVERY NOTES
+Business: property marketing, homes on installments. WhatsApp: +92 335 8033303.
+
+DELIVERED
+7-page static website with responsive layouts, WhatsApp inquiry builder and illustrative installment calculator.
+Installable custom WordPress theme (separate zip).
+7 desktop SVG layout frames for import into Figma. These are visual layout frames, not a native .fig file or full component system. Full copy is in website-content.md.
+Social profile copy, 12 caption concepts, 3 reel scripts, response templates and launch guidance.
+Illustrative architectural art is not a property listing.
+
+WORDPRESS INSTALL
+1. Back up existing website before theme activation.
+2. Appearance > Themes > Add New > Upload sitara-wordpress-theme.zip. Activate.
+3. Create and publish pages with exact slugs: home, about, services, homes, installments, faq, contact.
+4. Settings > Reading > Static homepage: Home. Settings > Permalinks > Post name; save.
+5. Theme provides the seven designed templates. Their copy is in content-*.php; ordinary page-editor text does not override these templates. Edit template source in staging or ask for integration with a preferred editor.
+6. Check phone, WhatsApp links and calculator on mobile. No forms database or payment gateway is included.
+Theme is packaged, not installed or tested on a running WordPress server. Requires an existing WordPress installation and hosting.
+
+FIGMA
+Create a new design file; drag the seven .svg frames into the canvas. Imported vector layouts are editable; native auto-layout/components are not included. Mobile styling is demonstrated in the responsive website.
+
+SOCIAL ACCOUNTS
+Assets and text are delivered; Facebook/Instagram/TikTok accounts have not been created or changed. Suggested handles need availability checking. Never share passwords; use platform business access.
+
+BEFORE PUBLIC LAUNCH
+Add verified project names, city/location, actual authorized photos, written prices and schedules, approval records, developer/seller details, possession terms, office address and privacy contact. These facts were not supplied and have not been invented. Prices, offers, NOC/approval, partnerships, experience and testimonials are not claimed.
+Native Figma authoring, account setup and live WordPress installation remain pending access.
